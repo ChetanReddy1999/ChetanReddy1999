@@ -1,4 +1,4 @@
-![Header](https://your-image-link.com/banner.png)
+![Header]()
 
 <h1 align="center">Hi there, I'm Demada Chetan Reddy 👋</h1>
 
@@ -17,15 +17,16 @@
 - 💡 Learning three new English words every day!
 
 ### 🛠 Tech Stack
+🚀 Programming Languages
 <p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbr2RpgfntcBKFVPwtTtVwifVRY7jPXb-TA&s"  width="50">
-  <img src="https://miro.medium.com/v2/resize:fit:300/1*Bae4dDfpgVJJVeSPhKkrfQ.gif" width="50">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="images/python.jpg" width="50" alt="Python">
+  <img src="images/java.gif" width="50" alt="Java">
+  <img src="images/golang.png" width="50" alt="Golang">
+  <img src="images/js.png" width="50" alt="JavaScript">
 </p>
+
+
+
 
 ### 📈 GitHub Stats
 <p align="center">
